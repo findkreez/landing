@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+	background-image: url('image/download6.jpg');
+}
+
+
+ul{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	list-style-type: none;
+	
+}
+
+li{
+	
+	float: right;
+}
+
+li a {
+    display: inline-block;
+    color: green;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#logo{
+	color: red;
+	float: left;
+	padding: 14px 0 0 16px;
+	font-size: 20px;
+}
+
+.navbar{
+	background-color: darkgrey;
+	width: 100%;
+	height: 50px;
+}
+
+input{
+	width: 400px;
+	margin-top: 350px;
+	margin-left: 300px;
+}
+
+button{
+	margin-left: 480px;
+	background-color: green;
+}
+p{
+	margin-left: 280px;
+	color: red;
+	text-shadow: 2px 2px purple;
+	font-size: 36px;
+
+}
